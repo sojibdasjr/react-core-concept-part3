@@ -1,0 +1,16 @@
+.singlePost{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .column {
+    flex: 20%;
+  }
